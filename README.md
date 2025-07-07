@@ -62,3 +62,47 @@
 	<a href="https://www.linkedin.com/in/agust%C3%ADn-merli-90ab2b35a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/agustin__merli/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
+<br>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estadísticas de Github
+
+<details><summary><h3> 🔥 Estadísticas de racha</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=agusmerli&theme=tokyonight_duo" alt="agusmerli" /></p>
+
+</details>
+  
+<details><summary><h3>💻 Estadísticas del perfil de GitHub</h3></summary>
+
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="agusmerli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=agusmerli&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agusmerli&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="agusmerli" height="230px"/>
+<br/>
+
+  <b>Nota:</b> Los lenguajes principales son solo una métrica de los idiomas que componen mi código público y no reflejan la experiencia o el nivel de habilidad.
+  </p>
+</details>
+
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/agusmerli/BlogMovies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=agusmerli&repo=BlogMovies&theme=tokyonight" alt="GitHub Stats" /></a>
+	<a href="https://github.com/agusmerli/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=agusmerli&repo=Portfolio&theme=tokyonight" alt="GitHub Stats" /></a>
+  </p>
+</div>
+</details>
+
+</br></br>
+
+<p align="center">
+  <img src="https://github.com/agusmerli/agusmerli/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+</p>
