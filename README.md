@@ -18,6 +18,7 @@
 - :computer: `Desarrollador Web Full-Stack` con experiencia en `frontend y backend`.
 - :technologist: Me apasiona crear soluciones `funcionales`, `accesibles` y `modernas`.
 - :nerd_face: Siempre estoy `aprendiendo cosas nuevas` y buscando crecer como desarrollador.
+- :link: Podés ver mi portafolio en (https://myportfolio-agustin.netlify.app/).
 
 <br>
 
