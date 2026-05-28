@@ -14,7 +14,7 @@
 
 <br><br>
 
-- :books: Estudiando la `Tecnicatura Universitaria en Programación` en la `UTN Chacabuco`.
+- :books: Me recibí de la `Tecnicatura Universitaria en Programación` en la `UTN Chacabuco`.
 - :computer: `Desarrollador Web Full-Stack` con experiencia en `frontend y backend`.
 - :technologist: Me apasiona crear soluciones `funcionales`, `accesibles` y `modernas`.
 - :nerd_face: Siempre estoy `aprendiendo cosas nuevas` y buscando crecer como desarrollador.
